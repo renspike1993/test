@@ -4,7 +4,7 @@
 1.Labajo, James Ryan N. # dili ni consider kay dli match sa name sa nag commit.
 2.kleinmigz
 3.
-4.
 5.
 6.
-7.
+7.Jo, Mark Genesis
+
